@@ -3,7 +3,7 @@ Position a child relative to its parent. Could be very useful for **tooltips** f
 
 ## Demo
 
-You can try the plugin on the [demo page](http://).
+You can try the plugin on the [demo page](http://emaj-fr.github.io/jquery.pinOn/).
 
 
 ## Usage
@@ -35,7 +35,7 @@ You can use words `top`,`bottom`,`left` **AND** `right` with an optionnal signed
 +-------------+----------+--------------+
 ```
 
-You can try the [demo](http://).
+You can try the [demo](http://emaj-fr.github.io/jquery.pinOn/).
 
 ### @param `align` 
 > The **align** define how the child must be align relatively to its **parent** if you sepcified only one dimmension in **position**.
@@ -83,4 +83,4 @@ $("#child").pinOn( "#parent" , "top+20" , "right" );
 +---------------------------------+
 ```
 
-You can try the [demo](http://).
+You can try the [demo](http://emaj-fr.github.io/jquery.pinOn/).
