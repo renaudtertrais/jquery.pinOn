@@ -8,7 +8,7 @@ You can try the plugin on the [demo page](http://emaj-fr.github.io/jquery.pinOn/
 
 ## Usage
 
-```
+```javascript
 $("#child").pinOn( parent [, position] [, align] );
 ```
 
@@ -49,7 +49,7 @@ By default, if you specified only **one position**, the **child** will be center
 
 #### No align
 ** JS **
-```
+```javascript
 $("#child").pinOn( "#parent" , "top+20" );
 ```
 
@@ -67,7 +67,7 @@ $("#child").pinOn( "#parent" , "top+20" );
 
 #### with align
 ** JS **
-```
+```javascript
 $("#child").pinOn( "#parent" , "top+20" , "right" );
 ```
 
