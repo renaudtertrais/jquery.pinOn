@@ -48,7 +48,7 @@ You can use an alignement among : `center`, `top`,`bottom`,`left` **OR** `right`
 By default, if you specified only **one position**, the **child** will be centered in the other dimmention. But you can specify the alignement that you want.
 
 #### No align
-** JS **
+
 ```javascript
 $("#child").pinOn( "#parent" , "top+20" );
 ```
@@ -66,7 +66,7 @@ $("#child").pinOn( "#parent" , "top+20" );
 ```
 
 #### with align
-** JS **
+
 ```javascript
 $("#child").pinOn( "#parent" , "top+20" , "right" );
 ```
